@@ -1,0 +1,33 @@
+body{
+    background-size: cover;
+    background-clip: border-box;
+    background-repeat: no-repeat;
+    font-family: 'Figtree' !important;
+}
+.box-1{
+    height: 95vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box-2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+h1.title-clinic{
+    font-size: 90px;
+    margin: 0;
+    text-align: center;
+}
+.box-num{
+    font-size: 106px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 347px;
+    height: 185px;
+    border: #3F51B5 solid 4px;
+    border-radius: 43px;
+    margin: 38px 0;
+}
